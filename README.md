@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Pedro Lucas Dourado
-- 📚 I'm a Software Engineering student at Universidade de Brasília (UnB) 
-- 💻 I'm currently learning C, Java and Python
+- 📚 I'm a Software Engineering student at Universidade de Brasília (UnB);
+- 💻 I'm currently learning C, Java and Python.
 
 ## Languages and tools:
 <div align="center">
